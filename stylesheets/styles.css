@@ -218,6 +218,7 @@ td {
 /* Header */
 
 header {
+background: url(../images/elections-2016) no-repeat ;
 	background-color: #ff0066;
 	color: #FDFDFB;
   width:170px;
