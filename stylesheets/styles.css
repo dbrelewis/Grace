@@ -31,8 +31,7 @@ body {
 	font-size: 18px;
 	color: #ff0066;
 	background-image:url(../images/bkg3.jpg);
-	background-repeat:no- repeat;
-	Background-size:cover;
+	background-repeat:repeat;
 	background-color:#FBFAF7;
 	margin: 0;
 	line-height: 1.8em;
